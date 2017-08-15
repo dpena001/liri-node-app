@@ -182,7 +182,7 @@ switch(action){
            do_what_it_say();
            break;
         default :
-           var outdata = "Invalid action!, The valid actions are; 'my-tweets','spotify-this-song','movie-this','do-what-it-say'.";
+           var outdata = "Invalid action!, The valid actions are;"+'\n'+"'my-tweets','spotify-this-song','movie-this','do-what-it-say'";
            console.log(outdata);
            logdata("Invalid action","",outdata);
            break;
