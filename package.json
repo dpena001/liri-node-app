@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Node JS Multiple functions App ",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.6",
+    "request": "^2.81.0",
+    "twitter-node-sdk": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpena001/liri-node-app.git"
+  },
+  "author": "David Pena Marquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpena001/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/dpena001/liri-node-app#readme"
+}
